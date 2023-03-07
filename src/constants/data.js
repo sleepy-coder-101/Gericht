@@ -1,81 +1,88 @@
 import images from "./images";
 
+/*
+
+The Sazerac - $18 (90 ml)
+Contents: Rye Whiskey, Absinthe, Peychaud's Bitters
+
+*/
+
 const wines = [
   {
-    title: "Chapel Hill Shiraz",
-    price: "$56",
-    tags: "AU | Bottle",
+    title: "Opus One Cabernet Sauvignon",
+    price: "$350",
+    tags: "Cabernet Sauvignon, Cabernet Franc, Merlot | 750 ml",
   },
   {
-    title: "Catena Malbee",
-    price: "$59",
-    tags: "AU | Bottle",
+    title: "Westvleteren 12",
+    price: "$20",
+    tags: "Water, Barley malt, Hops, Yeast, Sugar | 330 ml",
   },
   {
-    title: "La Vieillw Rose",
-    price: "$44",
-    tags: "FR | 750 ml",
+    title: "Pétrus",
+    price: "$3,500",
+    tags: "Merlot grapes | 750 ml",
   },
   {
-    title: "Rhino Pale Ale",
-    price: "$31",
-    tags: "CA | 750 ml",
+    title: "Goose Island Bourbon County Stout",
+    price: "$25",
+    tags: "Imperial Stout, Bourbon Barrel-Aged, Vanilla Bean | 473 ml",
   },
   {
-    title: "Irish Guinness",
-    price: "$26",
-    tags: "IE | 750 ml",
+    title: "Dom Perignon",
+    price: "$200",
+    tags: "Pinot Noir, Chardonnay | 750 ml",
   },
 ];
 
 const cocktails = [
   {
-    title: "Aperol Sprtiz",
+    title: "The Ritz Sidecar",
+    price: "$30",
+    tags: "Cognac, Cointreau, Lemon Juice | 60 ml",
+  },
+  {
+    title: "The Martini",
+    price: "$25",
+    tags: "Gin, Dry Vermouth, Olive | 90 ml",
+  },
+  {
+    title: "The Last Word",
     price: "$20",
-    tags: "Aperol | Villa Marchesi prosecco | soda | 30 ml",
+    tags: "Gin, Green Chartreuse, Lime Juice | 60 ml",
   },
   {
-    title: "Dark 'N' Stormy",
-    price: "$16",
-    tags: "Dark rum | Ginger beer | Slice of lime",
+    title: "The Vieux Carré",
+    price: "$15",
+    tags: "Rye Whiskey, Cognac, Sweet Vermouth | 90 ml",
   },
   {
-    title: "Daiquiri",
-    price: "$10",
-    tags: "Rum | Citrus juice | Sugar",
-  },
-  {
-    title: "Old Fashioned",
-    price: "$31",
-    tags: "Bourbon | Brown sugar | Angostura Bitters",
-  },
-  {
-    title: "Negroni",
-    price: "$26",
-    tags: "Gin | Sweet Vermouth | Campari | Orange garnish",
+    title: "The Sazerac",
+    price: "$18",
+    tags: "Rye Whiskey, Absinthe, Peychaud's Bitters | 90 ml",
   },
 ];
 
 const awards = [
   {
     imgUrl: images.award02,
-    title: "Bib Gourmond",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "Michelin Star",
+    subtitle: "Exquisite cuisine that sets the standard for fine dining.",
   },
   {
     imgUrl: images.award01,
-    title: "Rising Star",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "AAA Five Diamond Award",
+    subtitle: "Luxury at its finest, where every detail is a masterpiece.",
   },
   {
     imgUrl: images.award05,
-    title: "AA Hospitality",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "James Beard Award",
+    subtitle: "Celebrating the art of cooking and the joy of sharing a meal.",
   },
   {
     imgUrl: images.award03,
-    title: "Outstanding Chef",
-    subtitle: "Lorem ipsum dolor sit amet, consectetur.",
+    title: "World's 50 Best Restaurants",
+    subtitle: "Where culinary innovation meets unparalleled excellence.",
   },
 ];
 

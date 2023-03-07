@@ -9,11 +9,14 @@ const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new flavour" />
-      <h1 className="app__header-h1">The Key to Fine Dining</h1>
+      <h1 className="app__header-h1">The Epitome of Fine Dining</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
-        Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat
-        morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet
-        tellus
+        Discover the pinnacle of culinary excellence at Gericht, where every
+        dish is a masterpiece. Our talented chefs use only the freshest,
+        locally-sourced ingredients to create a menu that is both innovative and
+        timeless. From our exquisite appetizers to our decadent desserts, every
+        bite is a symphony of flavors and textures. Immerse yourself in the
+        elegance of Gericht and experience the ultimate in fine dining.
       </p>
       <button type="button" className="custom__button">
         Explore Menu

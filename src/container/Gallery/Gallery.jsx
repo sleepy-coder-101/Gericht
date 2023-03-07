@@ -35,8 +35,8 @@ const Gallery = () => {
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
         <p className="p__opensans" style={{ color: "#AAA", marginTop: "2rem" }}>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat
-          mattis ipsum turpis elit elit scelerisque egestas mu.
+          Feast your eyes on our culinary artistry and luxurious ambiance -
+          browse our photo gallery and savor the anticipation of your next visit
         </p>
         <button className="custom__button">View More</button>
       </div>

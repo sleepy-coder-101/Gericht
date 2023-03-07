@@ -19,13 +19,16 @@ const Chef = () => (
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote" />
           <p className="p__opensans">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .
+            As Chef of our fine dining restaurant, we believe in using the
+            finest
           </p>
         </div>
         <p className="p__opensans">
-          auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit.
-          Nulla scelerisque scelerisque congue ac consequat, aliquam molestie
-          lectus eu. Congue iaculis integer curabitur semper sit nunc.
+          ingredients, supporting sustainable farming practices, and delivering
+          exceptional quality. We aim to create a memorable dining experience
+          with impeccable service and a welcoming atmosphere. We celebrate the
+          art of cooking and the joy of sharing a meal, and constantly strive to
+          push the boundaries of our craft.
         </p>
       </div>
 
