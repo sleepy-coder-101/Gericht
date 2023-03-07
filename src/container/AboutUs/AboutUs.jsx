@@ -17,7 +17,7 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="spoon" className="spoon__img" />
         <p className="p__opensans">
-          Welcome to Gericht, a fine dining restaurant that provides our guests
+          Welcome to Gerícht, a fine dining restaurant that provides our guests
           with an exceptional culinary experience. Our mission is to create an
           atmosphere of sophistication and elegance where guests can indulge in
           a sensory journey of flavors and textures.
@@ -35,7 +35,7 @@ const AboutUs = () => (
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="spoon" className="spoon__img" />
         <p className="p__opensans">
-          Founded in 2007 by Chef Kevin Luo, Gericht quickly gained a reputation
+          Founded in 2007 by Chef Kevin Luo, Gerícht quickly gained a reputation
           for outstanding cuisine and sophisticated ambiance. Today, it
           continues to innovate and evolve to provide guests with a memorable
           dining experience.

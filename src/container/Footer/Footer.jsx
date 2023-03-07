@@ -20,8 +20,8 @@ const Footer = () => (
       <div className="app__footer-links_logo">
         <img src={images.gericht} alt="footer_logo" />
         <p className="p__opensans">
-          "Discover who you truly are by losing yourself in the service of
-          others”
+          "Embark on an extraordinaire palatable journey, where culinary
+          excellence awaits"
         </p>
         <img
           src={images.spoon}
