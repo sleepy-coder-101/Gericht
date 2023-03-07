@@ -8,9 +8,9 @@
 
 This GitHub project presents the UI/UX designs for Gerícht, a fine dining restaurant, providing an in-depth look at the restaurant's layout and aesthetic vision
 
-## Live preview
+## Live
 
-https://gericht-sleepy-coder-101.vercel.app/
+https://www.gericht.sleepycoder101.xyz/
 
 ## Screenshots
 
