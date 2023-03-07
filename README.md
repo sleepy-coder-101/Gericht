@@ -1,4 +1,4 @@
-# 🤖 Gerícht
+# 🍴 Gerícht
 
 <p align="center">
   <img src="/public/readme/Banner.png" />
@@ -31,7 +31,7 @@ Refer to https://nodejs.org/en/download/ to install nodejs
 Install vite npm package locally. This will help to easily run the project and also build the source files easily.
 
 ```bash
-npm create vite@latest
+npx create-vite-app
 ```
 
 ## Installation
