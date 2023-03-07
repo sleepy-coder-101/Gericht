@@ -10,7 +10,7 @@ This GitHub project presents the UI/UX designs for Gerícht, a fine dining rest
 
 ## Live
 
-https://www.gericht.sleepycoder101.xyz/
+https://www.gericht.sleepycoder101.xyz
 
 ## Screenshots
 
